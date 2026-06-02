@@ -65,4 +65,4 @@ Neste projeto, a Inteligência Artificial foi estudada sob a perspectiva do uso 
 
 ---
 
-[⬅ Voltar para o Glossário](../../../README.md)
+[⬅ Voltar para o Glossário](../README.md/README.md)
