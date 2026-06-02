@@ -6,6 +6,14 @@ Projeto desenvolvido para explorar o uso do NotebookLM como ferramenta de pesqui
 
 O tema escolhido para este caderno temático foi o **uso consciente da Inteligência Artificial**, devido ao crescimento da utilização dessas ferramentas em atividades acadêmicas, profissionais e pessoais. O estudo busca compreender como a IA pode ser utilizada de forma responsável, ética e crítica, reconhecendo seus benefícios, limitações e possíveis riscos.
 
+## 📖 Glossário
+
+- [NotebookLM](./glossario/notebooklm.md)
+- [Inteligência Artificial](./glossario/inteligencia-artificial.md)
+- [Viés Algorítmico](./glossario/vies-algoritmico.md)
+- [Dependência Cognitiva](./glossario/dependencia-cognitiva.md)
+- [Engenharia de Prompts](./glossario/engenharia-de-prompts.md)
+
 ## Objetivos de Estudo
 
 - Compreender o conceito de uso consciente da Inteligência Artificial.
@@ -13,3 +21,7 @@ O tema escolhido para este caderno temático foi o **uso consciente da Inteligê
 - Analisar os cuidados necessários ao utilizar IA em áreas profissionais que exigem tomada de decisão humana.
 - Investigar os riscos da dependência cognitiva e do uso excessivo dessas ferramentas.
 - Desenvolver uma visão crítica sobre as informações geradas por sistemas de Inteligência Artificial.
+
+## 📌 Encerramento
+
+- [✅ Conclusão](./conclusao/conclusao.md)

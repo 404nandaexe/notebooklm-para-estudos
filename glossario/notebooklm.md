@@ -14,3 +14,5 @@ O NotebookLM é uma ferramenta desenvolvida pelo Google que utiliza Inteligênci
 ## Aplicação neste Projeto
 
 Neste projeto, o NotebookLM foi utilizado para analisar materiais relacionados ao uso consciente da Inteligência Artificial.
+---
+[⬅ Voltar para o README Principal](../README.md)
