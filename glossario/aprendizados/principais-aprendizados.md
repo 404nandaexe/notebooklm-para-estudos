@@ -19,4 +19,4 @@ A pesquisa demonstrou que a Inteligência Artificial oferece diversas oportunida
 
 ---
 
-[⬅ Voltar para o README Principal](../README.md)
+[⬅ Voltar para o README Principal](../../README.md)

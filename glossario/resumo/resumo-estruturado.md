@@ -73,4 +73,4 @@ A dependência cognitiva ocorre quando uma pessoa passa a delegar excessivamente
 
 ---
 
-[⬅ Voltar para o README Principal](../README.md)
+[⬅ Voltar para o README Principal](../../README.md)

@@ -70,4 +70,4 @@ A utilização de diferentes estratégias de prompt demonstrou que pequenas alte
 
 ---
 
-[⬅ Voltar para o README Principal](../README.md)
+[⬅ Voltar para o README Principal](../../README.md)

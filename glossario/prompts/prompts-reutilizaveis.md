@@ -82,4 +82,4 @@ Os prompts apresentados podem ser adaptados para diferentes temas e contextos de
 
 ---
 
-[⬅ Voltar para o README Principal](../README.md)
+[⬅ Voltar para o README Principal](../../README.md)

@@ -26,4 +26,4 @@ As perguntas abaixo foram utilizadas para orientar a investigação do tema **Us
 
 ---
 
-[⬅ Voltar para o README Principal](../README.md)
+[⬅ Voltar para o README Principal](../../README.md)
