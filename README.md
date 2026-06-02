@@ -12,6 +12,8 @@ O tema escolhido para este caderno temático foi o **uso consciente da Inteligê
 - [Inteligência Artificial](./glossario/inteligencia-artificial.md)
 - [Dependência Cognitiva](./glossario/dependencia-cognitiva.md)
 - [Engenharia de Prompts](./glossario/engenharia-de-prompts/prompts.md)
+- [Fontes](./glossario/fontes.md)
+- [Conclusão](./glossario/conclusao/conclusao.md)
 
 ## Objetivos de Estudo
 
@@ -30,6 +32,14 @@ O tema escolhido para este caderno temático foi o **uso consciente da Inteligê
 📄 [Abrir Guia de Estudos](./glossario/resultados/guia-de-estudos-notebooklm.pdf)
 
 Este documento foi gerado pelo NotebookLM a partir das fontes utilizadas neste projeto e demonstra uma aplicação prática da ferramenta no processo de aprendizagem.
+
+## 📑 Fontes utilizadas no NotebookLM
+
+- [📍Fontes](./glossario/fontes.md)
+
+## Engenharia de prompts
+
+- [🔗 Prompts utilizados no NotebookLM](./glossario/engenharia-de-prompts/prompts.md)
 
 ## 📌 Encerramento
 
