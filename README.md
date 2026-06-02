@@ -22,9 +22,15 @@ O tema escolhido para este caderno temático foi o **uso consciente da Inteligê
 - Investigar os riscos da dependência cognitiva e do uso excessivo dessas ferramentas.
 - Desenvolver uma visão crítica sobre as informações geradas por sistemas de Inteligência Artificial.
 
-## 📄 Resultados
+## 📄 Resultados Obtidos
 
 - [💻Material Gerado pelo NotebookLM](./resultados/README.md)
+
+## Material Gerado pelo NotebookLM
+
+📄 [Abrir Guia de Estudos](./guia-de-estudos-notebooklm.pdf)
+
+Este documento foi gerado pelo NotebookLM a partir das fontes utilizadas neste projeto e demonstra uma aplicação prática da ferramenta no processo de aprendizagem.
 
 ## 📌 Encerramento
 
