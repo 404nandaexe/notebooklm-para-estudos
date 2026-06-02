@@ -54,4 +54,4 @@ https://youtu.be/D2KIu_yDeJk
 
 ---
 
-[⬅ Voltar para o README Principal](glossario/fontes.md)
+[⬅ Voltar para o README Principal](../README.md)

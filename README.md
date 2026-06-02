@@ -33,4 +33,4 @@ Este documento foi gerado pelo NotebookLM a partir das fontes utilizadas neste p
 
 ## 📌 Encerramento
 
-- [✅ Conclusão](./glossario/conclusao/conclusao.md)
+- [✅ Conclusão](./conclusao/conclusao.md)
