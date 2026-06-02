@@ -11,8 +11,8 @@ O tema escolhido para este caderno temático foi o **uso consciente da Inteligê
 - [NotebookLM](./glossario/notebooklm.md)
 - [Inteligência Artificial](./glossario/inteligencia-artificial.md)
 - [Dependência Cognitiva](./glossario/dependencia-cognitiva.md)
-- [Engenharia de Prompts](./glossario/engenharia-de-prompts/prompts.md)
 - [Fontes](./glossario/fontes.md)
+- [Engenharia de Prompts](./glossario/engenharia-de-prompts/prompts.md)
 - [Conclusão](./glossario/conclusao/conclusao.md)
 
 ## Objetivos de Estudo
