@@ -10,12 +10,12 @@ O objetivo é demonstrar, de forma prática, como a ferramenta pode auxiliar na 
 
 O documento em PDF foi produzido a partir das fontes utilizadas no caderno temático sobre o uso consciente da Inteligência Artificial.
 
-O material exemplifica algumas das funcionalidades da ferramenta, como:
+O material questiona o mal uso da IA e como isso pode afetar a saúde, como, por exemplo:
 
-- Organização de conteúdos;
-- Síntese de informações;
-- Criação de materiais de revisão;
-- Apoio ao aprendizado baseado em fontes confiáveis.
+- Perda da autonomia intelectual;
+- Perda de retenção e memória;
+- Confiar cegamente nas respostas fornecidas por ela;
+- O cuidado do uso no dia a dia;
 
 ## Aplicação Prática
 
