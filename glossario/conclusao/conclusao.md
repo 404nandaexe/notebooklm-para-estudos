@@ -8,4 +8,4 @@ Além disso, a pesquisa evidenciou a importância do pensamento crítico, da ver
 
 ---
 
-[⬅ Voltar para o README Principal](.glossario/conclusao/README.md)
+[⬅ Voltar para o README Principal](.README.md)
